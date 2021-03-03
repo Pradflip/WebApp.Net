@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "35NX+v3QFyxIKb/fMBmvREMzZ6QhqjyALKtWF/tgzIrOWaPbkac44UA7Y1RlEJslEE6YfcA4YbU+xuQgbmRimw==",
+  "dgSpecHash": "gnjG/UX5CtEHyZ5aBG6a054YlgkLLgYcagAVUCcil2q8ijLdzmRggxhkICD9lVKoZ6VxxsAod+Q9v8MKetAIbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Flip\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

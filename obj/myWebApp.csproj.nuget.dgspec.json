@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Flip\\myWebApp\\myWebApp.csproj": {}
+    "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Flip\\myWebApp\\myWebApp.csproj": {
+    "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Flip\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "C:\\Users\\Flip\\myWebApp\\myWebApp.csproj",
+        "projectPath": "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\Flip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Flip\\myWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Flip\\Documents\\Workspaces\\ws-vs2019\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Flip\\AppData\\Roaming\\NuGet\\NuGet.Config",
